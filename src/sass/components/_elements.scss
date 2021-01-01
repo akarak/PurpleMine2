@@ -496,6 +496,11 @@ ul.projects {
 
     .wiki.description {
       padding-left: $padding-side;
+
+      a.project {
+        font-size: $font-size-base;
+        font-weight: $font-weight-normal;
+      }
     }
   }
 
