@@ -493,6 +493,10 @@ ul.projects {
 
   li.root {
     margin-bottom: $line-height-computed;
+
+    .wiki.description {
+      padding-left: $padding-side;
+    }
   }
 
   li.child {
