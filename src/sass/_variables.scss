@@ -10,12 +10,12 @@
 $fixed-layout:                  false !default;
 $css-grid-layout:               false !default;
 $flexbox-layout:                true !default;
-$sidebar-position:              left !default;
+$sidebar-position:              right !default;
 $clean-issues:                  true !default;
 $color-trackers:                true !default;
 $color-status:                  true !default;
 $color-priorities:              false !default;
-$priority-icon:                 true !default;
+$priority-icon:                 false !default;
 $use-gravatars:                 true !default;
 $use-logo:                      false !default;
 $use-retina-logo:               false !default;
@@ -32,7 +32,8 @@ $agile-board-customize:         true !default;
 
 $blue:                          #0065ff !default;
 $indigo:                        #4e65e5 !default;
-$purple:                        #614ba6 !default;
+//$purple:                        #614ba6 !default;
+$purple:                        #333 !default;
 $pink:                          #eb5286 !default;
 $red:                           #e5123d !default;
 $orange:                        #fc8c12 !default;
