@@ -12,9 +12,9 @@ $css-grid-layout:               false !default;
 $flexbox-layout:                true !default;
 $sidebar-position:              right !default;
 $clean-issues:                  true !default;
-$color-trackers:                true !default;
+$color-trackers:                false !default;
 $color-status:                  true !default;
-$color-priorities:              false !default;
+$color-priorities:              true !default;
 $priority-icon:                 false !default;
 $use-gravatars:                 true !default;
 $use-logo:                      false !default;
@@ -23,7 +23,7 @@ $use-project-tiles:             true !default;
 $issue-subject-large:           true !default;
 $enable-sidebar-toggler:        true !default;
 $wiki-page-more-vertical-space: true !default;
-$top-menu-collapse:             false !default;
+$top-menu-collapse:             true !default;
 $agile-board-customize:         true !default;
 
 
