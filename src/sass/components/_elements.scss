@@ -497,6 +497,15 @@ ul.projects {
 
   li.child {
     margin-top: $line-height-computed / 2;
+
+    .wiki.description {
+      padding-left: $padding-side;
+
+      a.project {
+        font-size: $font-size-base;
+        font-weight: $font-weight-normal;
+      }
+    }
   }
 
   a.project {
